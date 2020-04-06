@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+('/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/LALAL/dev-aberto-aula10/scripts/build/hello/PKG-00.pkg',
+=======
 ('/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/dev-aberto-aula10/scripts/build/hello/PKG-00.pkg',
+>>>>>>> 65a3e6743e6a52d3fcf4d201b72c776d30091d40
  {'BINARY': 1,
   'DATA': 1,
   'EXECUTABLE': 1,
@@ -7,7 +11,11 @@
   'PYSOURCE': 1,
   'PYZ': 0},
  [('PYZ-00.pyz',
+<<<<<<< HEAD
+   '/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/LALAL/dev-aberto-aula10/scripts/build/hello/PYZ-00.pyz',
+=======
    '/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/dev-aberto-aula10/scripts/build/hello/PYZ-00.pyz',
+>>>>>>> 65a3e6743e6a52d3fcf4d201b72c776d30091d40
    'PYZ'),
   ('struct', '/usr/lib/python2.7/struct.pyc', 'PYMODULE'),
   ('pyimod01_os_path',
@@ -23,7 +31,11 @@
    '/usr/local/lib/python2.7/dist-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
    'PYSOURCE'),
   ('hello',
+<<<<<<< HEAD
+   '/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/LALAL/dev-aberto-aula10/scripts/hello.py',
+=======
    '/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/dev-aberto-aula10/scripts/hello.py',
+>>>>>>> 65a3e6743e6a52d3fcf4d201b72c776d30091d40
    'PYSOURCE')],
  True,
  False,

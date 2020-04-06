@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+('/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/LALAL/dev-aberto-aula10/scripts/build/hello/PYZ-00.pyz',
+=======
 ('/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/dev-aberto-aula10/scripts/build/hello/PYZ-00.pyz',
+>>>>>>> 65a3e6743e6a52d3fcf4d201b72c776d30091d40
  [('codecs', '/usr/lib/python2.7/codecs.py', 'PYMODULE'),
   ('encodings', '/usr/lib/python2.7/encodings/__init__.py', 'PYMODULE'),
   ('encodings.idna', '/usr/lib/python2.7/encodings/idna.py', 'PYMODULE'),

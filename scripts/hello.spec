@@ -4,7 +4,11 @@ block_cipher = None
 
 
 a = Analysis(['hello.py'],
+<<<<<<< HEAD
+             pathex=['/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/LALAL/dev-aberto-aula10/scripts'],
+=======
              pathex=['/home/gabrielvf/Documents/Semestre7/Dev-Aberto/aula10Git/dev-aberto-aula10/scripts'],
+>>>>>>> 65a3e6743e6a52d3fcf4d201b72c776d30091d40
              binaries=[],
              datas=[],
              hiddenimports=[],
